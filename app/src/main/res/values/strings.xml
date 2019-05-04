@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Clyma</string>
+    <string name="dark_sky_message"><a href="https://darksky.net/poweredby">Powered By DarkSky</a></string>
+</resources>
